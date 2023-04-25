@@ -13,8 +13,7 @@ h2{
     font-style: italic;
 }
 body{
-    background-color:rgb(44, 243, 187);
- 
+    background: linear-gradient(119deg, rgb(137, 240, 11) 0%, rgb(230, 236, 229) 100%);
     background-position: center;
     background-size: cover;
 }
